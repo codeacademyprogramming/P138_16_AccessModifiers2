@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb

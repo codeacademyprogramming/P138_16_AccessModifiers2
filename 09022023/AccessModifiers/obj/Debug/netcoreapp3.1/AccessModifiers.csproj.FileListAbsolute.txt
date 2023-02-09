@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P138\16. 09-02-2023\09022023\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache
